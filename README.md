@@ -1,9 +1,3 @@
-Great question 👍
-When you put this project on **GitHub**, your **README.md** should clearly explain what the project does, how to run it, and what the output looks like. Since your project is about **reading a student dataset (Excel), processing marks, grading, and exporting results with charts into another Excel workbook**, here are some value points you can put in your README:
-
----
-
-## 📌 Suggested README Points
 
 ### 1. **Project Title**
 
